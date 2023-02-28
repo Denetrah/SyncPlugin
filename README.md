@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+#TwilioSync 
+This project allows HOOPS with Twilio Sync Doc 
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
